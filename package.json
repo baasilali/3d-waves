@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --public-url ./",
+    "build": "parcel build index.html",
     "dev": "parcel index.html"
   },
   "dependencies": {
