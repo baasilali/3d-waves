@@ -1,6 +1,6 @@
 # Interactive Wave Animation
 
-A mesmerizing 3D wave animation created with Three.js and custom GLSL shaders. The animation features a dynamic point cloud that forms fluid wave patterns using Perlin noise, with real-time configurable parameters.
+3D wave animation created with Three.js and custom GLSL shaders. The animation features a dynamic point cloud that forms fluid wave patterns using Perlin noise, with real-time configurable parameters.
 
 ## Features
 
@@ -112,10 +112,6 @@ To modify colors, adjust the fragment shader:
 vec3 color = vec3(st.x, st.y * 0.5, sin(st.y));
 gl_FragColor = vec4(color, 1.0);
 ```
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Credits
 
