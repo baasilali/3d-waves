@@ -160,11 +160,11 @@
       });
     }
   }
-})({"1U27z":[function(require,module,exports,__globalThis) {
+})({"5j6Kf":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 52126;
+var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -33772,6 +33772,6 @@ class ClearMaskPass extends (0, _passJs.Pass) {
     }
 }
 
-},{"./Pass.js":"jQHYg","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["1U27z","a0t4e"], "a0t4e", "parcelRequiref699", {})
+},{"./Pass.js":"jQHYg","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}]},["5j6Kf","a0t4e"], "a0t4e", "parcelRequiref699", {})
 
 //# sourceMappingURL=waves.31b563d9.js.map
